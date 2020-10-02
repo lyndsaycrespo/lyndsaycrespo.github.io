@@ -1,6 +1,7 @@
 .jumbotron {
     height: 100vh;
     background-image: url("assets/header-background.jpg");
+    background-attachment: fixed;
     background-size: cover;
     background-position: 0 50%;
     color: white;
